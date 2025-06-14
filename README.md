@@ -66,8 +66,8 @@ Swagger UI is available at:
 [http://localhost:5000/api-docs](http://localhost:5000/api-docs)
 
 ## Folder Structure
-
-├── Helpers/ 
+```
+├── Helpers/
 │ └── ApiResponseHandler.js 
 ├── middleware/ 
 |   └── verifyToken.js 
@@ -84,7 +84,7 @@ Swagger UI is available at:
 ├── swagger.js 
 ├── package.json 
 ├── .env.example 
-└── README.md
+└── README.md```
 
 ## Endpoints Overview
 
