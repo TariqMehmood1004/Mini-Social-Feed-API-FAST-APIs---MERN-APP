@@ -84,7 +84,8 @@ Swagger UI is available at:
 ├── swagger.js 
 ├── package.json 
 ├── .env.example 
-└── README.md```
+└── README.md
+```
 
 ## Endpoints Overview
 
