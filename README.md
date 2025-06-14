@@ -35,7 +35,7 @@ A simple RESTful API for a social feed application built with Node.js, Express, 
 
 1. Clone the repository:
     ```sh
-    git clone <repo-url>
+    git clone https://github.com/TariqMehmood1004/Mini-Social-Feed-API-FAST-APIs---MERN-APP.git
     cd Mini-Social-Feed-API-FAST-APIs---MERN-APP
     ```
 
