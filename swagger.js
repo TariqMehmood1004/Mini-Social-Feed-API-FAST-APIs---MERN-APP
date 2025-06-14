@@ -19,7 +19,7 @@ const options = {
         servers: [
             {
                 url: `${HOST}:${PORT}`,
-                description: 'Development server',
+                description: 'Production server',
             },
         ],
         components: {
